@@ -23,5 +23,5 @@ Response Body:
 HTTP Method: GET
 URL : /tinyUrl 
 ```text
-Our example http:\\domain\DXUQvDr will redirect us to https://github.com/mrigankaroy/SimpleTinyURL
+Our example http://domain/DXUQvDr will redirect us to https://github.com/mrigankaroy/SimpleTinyURL
 ```
